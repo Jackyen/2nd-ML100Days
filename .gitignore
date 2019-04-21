@@ -124,4 +124,6 @@ fabric.properties
 # ignore data 
 data
 
+# ignore download document
+download
 
